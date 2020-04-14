@@ -6589,11 +6589,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sidde\\Documents\\XUnitTest\\XUnitTest.csproj",
+      "projectUniqueName": "C:\\gitHubRepo\\WebAPI\\XUnitTest\\XUnitTest.csproj",
       "projectName": "XUnitTest",
-      "projectPath": "C:\\Users\\sidde\\Documents\\XUnitTest\\XUnitTest.csproj",
+      "projectPath": "C:\\gitHubRepo\\WebAPI\\XUnitTest\\XUnitTest.csproj",
       "packagesPath": "C:\\Users\\sidde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sidde\\Documents\\XUnitTest\\obj\\",
+      "outputPath": "C:\\gitHubRepo\\WebAPI\\XUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sidde\\AppData\\Roaming\\NuGet\\NuGet.Config",

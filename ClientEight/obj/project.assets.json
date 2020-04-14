@@ -5131,11 +5131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sidde\\Documents\\ClientEight\\ClientEight.csproj",
+      "projectUniqueName": "C:\\gitHubRepo\\WebAPI\\ClientEight\\ClientEight.csproj",
       "projectName": "ClientEight",
-      "projectPath": "C:\\Users\\sidde\\Documents\\ClientEight\\ClientEight.csproj",
+      "projectPath": "C:\\gitHubRepo\\WebAPI\\ClientEight\\ClientEight.csproj",
       "packagesPath": "C:\\Users\\sidde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sidde\\Documents\\ClientEight\\obj\\",
+      "outputPath": "C:\\gitHubRepo\\WebAPI\\ClientEight\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sidde\\AppData\\Roaming\\NuGet\\NuGet.Config",

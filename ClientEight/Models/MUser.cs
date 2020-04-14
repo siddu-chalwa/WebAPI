@@ -112,8 +112,7 @@ namespace ClientEight.Models
         {
             try
             {
-                return dbContextClass.entities.FirstOrDefault(u => (u.UserID == user.UserID && u.Password == user.Password)) == null ? false : true;
-            }
+                return  
             catch (Exception)
             {
 
